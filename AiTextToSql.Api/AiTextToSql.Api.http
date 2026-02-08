@@ -1,0 +1,6 @@
+@AiTextToSql.Api_HostAddress = http://localhost:5147
+
+GET {{AiTextToSql.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
